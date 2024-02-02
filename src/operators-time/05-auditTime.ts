@@ -1,6 +1,6 @@
 import { fromEvent, auditTime, map, tap } from 'rxjs';
 
-// auditTime...cuando clicas empieza a contar el tiempo
+// auditTime...cuando clicas empieza a contar el tiempo (2000ms)
 // cuando acaba el tiempo, se emite el ultimo valor
 
 
